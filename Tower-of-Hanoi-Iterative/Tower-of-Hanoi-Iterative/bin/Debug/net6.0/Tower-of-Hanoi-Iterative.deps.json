@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tower-of-Hanoi-Iterative/1.0.0": {
+        "runtime": {
+          "Tower-of-Hanoi-Iterative.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tower-of-Hanoi-Iterative/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

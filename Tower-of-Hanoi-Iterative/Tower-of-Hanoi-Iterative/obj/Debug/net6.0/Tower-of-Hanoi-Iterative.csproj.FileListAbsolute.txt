@@ -1,0 +1,15 @@
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\bin\Debug\net6.0\Tower-of-Hanoi-Iterative.exe
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\bin\Debug\net6.0\Tower-of-Hanoi-Iterative.deps.json
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\bin\Debug\net6.0\Tower-of-Hanoi-Iterative.runtimeconfig.json
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\bin\Debug\net6.0\Tower-of-Hanoi-Iterative.dll
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\bin\Debug\net6.0\Tower-of-Hanoi-Iterative.pdb
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\obj\Debug\net6.0\Tower-of-Hanoi-Iterative.csproj.AssemblyReference.cache
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\obj\Debug\net6.0\Tower-of-Hanoi-Iterative.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\obj\Debug\net6.0\Tower-of-Hanoi-Iterative.AssemblyInfoInputs.cache
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\obj\Debug\net6.0\Tower-of-Hanoi-Iterative.AssemblyInfo.cs
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\obj\Debug\net6.0\Tower-of-Hanoi-Iterative.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\obj\Debug\net6.0\Tower-of-Hanoi-Iterative.dll
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\obj\Debug\net6.0\refint\Tower-of-Hanoi-Iterative.dll
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\obj\Debug\net6.0\Tower-of-Hanoi-Iterative.pdb
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\obj\Debug\net6.0\Tower-of-Hanoi-Iterative.genruntimeconfig.cache
+D:\GitHub Projects\Tower-of-Hanoi-Algorithm\Tower-of-Hanoi-Iterative\Tower-of-Hanoi-Iterative\obj\Debug\net6.0\ref\Tower-of-Hanoi-Iterative.dll
