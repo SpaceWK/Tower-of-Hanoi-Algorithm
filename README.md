@@ -44,8 +44,8 @@ To know how many moves I can use for each number of disks, I used the formula 2^
 <br />
 And the final Output for a number of four disks is:  
 <br />
-![My image]
-(https://https://github.com/SpaceWK/Tower-of-Hanoi-Algorithm/blob/main/Sample.png)
+![Sample image]
+(https://github.com/SpaceWK/Tower-of-Hanoi-Algorithm/blob/main/Sample.png)
 <br />
 Where:
 <br />
