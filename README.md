@@ -11,7 +11,7 @@ The puzzle has the following two rules:
 - You can’t place a larger disk onto a smaller disk 
 - Only one disk can be moved at a time
 
-So I implemented a comand line version in C# to exemplify the moves made to solve this puzzle.
+So I implemented a command line version in C# to exemplify the moves made to solve this puzzle.
 In the line you will see the movement of each individual disk.
 	
 ### The Algorithm Logic and implementation
@@ -44,7 +44,8 @@ To know how many moves I can use for each number of disks, I used the formula 2^
 <br />
 And the final Output for a number of four disks is:  
 <br />
-![image](https://user-images.githubusercontent.com/58958500/200420247-471bbcf2-aaa5-448f-bbc8-c0e2c468423c.png)
+![My image]
+(https://https://github.com/SpaceWK/Tower-of-Hanoi-Algorithm/blob/main/Sample.png)
 <br />
 Where:
 <br />
